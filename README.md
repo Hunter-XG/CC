@@ -6,6 +6,8 @@
 
 核心用户挖掘与传播规模预测
 
+http://www.wrd.cn/spreadData/goSpreadData.shtml
+
 ## 数据描述
 
 * 以下描述中的该用户均代指转发数据中的转发用户
